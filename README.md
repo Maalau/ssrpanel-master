@@ -42,6 +42,8 @@
 ```yum install screen wget -y &&screen -S ssrpanel```<br>
 ```wget --no-check-certificate https://raw.githubusercontent.com/marisn2017/ssrpanel/master/dev-script.sh&&chmod +x dev-script.sh&&bash dev-script.sh```
 
+```wget --no-check-certificate https://raw.githubusercontent.com/SailorChina/ssrpanel-master/master/dev-script.sh&&chmod +x dev-script.sh&&bash dev-script.sh```
+
 
 更多问题访问：<a href="https://blog.67cc.cn/">https://blog.67cc.cn/</a><br>
 
