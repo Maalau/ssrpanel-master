@@ -34,6 +34,9 @@
 ```yum install screen wget -y &&screen -S ssrpanel```<br>
 ```wget --no-check-certificate https://raw.githubusercontent.com/marisn2017/ssrpanel/master/stable-script.sh&&chmod +x stable-script.sh&&bash stable-script.sh```
 
+```wget --no-check-certificate https://raw.githubusercontent.com/SailorChina/ssrpanel-master/master/stable-script.sh&&chmod +x stable-script.sh&&bash stable-script.sh```
+
+
 开发版：
 
 ```yum install screen wget -y &&screen -S ssrpanel```<br>
