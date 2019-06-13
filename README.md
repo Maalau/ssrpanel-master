@@ -1,6 +1,6 @@
 # ssrpanel-new
 
-<img src="https://user-images.githubusercontent.com/6165035/29682337-83f3017e-88bf-11e7-846c-138e9639b87f.png" alt="universe october 11-12" style="max-width:100%;">
+
 胖虎的ssrpanel一键包<br><br>
 
 1.多节点账号管理面板，兼容SS、SSRR<br>
@@ -31,8 +31,9 @@
 
 稳定版：
 
+https://raw.githubusercontent.com/SailorChina/ssrpanel-master/master/stable-script.sh
 ```yum install screen wget -y &&screen -S ssrpanel```<br>
-```wget --no-check-certificate https://raw.githubusercontent.com/marisn2017/ssrpanel/master/stable-script.sh&&chmod +x stable-script.sh&&bash stable-script.sh```
+```wget --no-check-certificate https://raw.githubusercontent.com/SailorChina/ssrpanel-master/master/stable-script.sh&&chmod +x stable-script.sh&&bash stable-script.sh```
 
 ```wget --no-check-certificate https://raw.githubusercontent.com/SailorChina/ssrpanel-master/master/stable-script.sh&&chmod +x stable-script.sh&&bash stable-script.sh```
 
@@ -40,14 +41,10 @@
 开发版：
 
 ```yum install screen wget -y &&screen -S ssrpanel```<br>
-```wget --no-check-certificate https://raw.githubusercontent.com/marisn2017/ssrpanel/master/dev-script.sh&&chmod +x dev-script.sh&&bash dev-script.sh```
+```wget --no-check-certificate https://raw.githubusercontent.com/SailorChina/ssrpanel-master/master/dev-script.sh&&chmod +x dev-script.sh&&bash dev-script.sh```
 
 ```wget --no-check-certificate https://raw.githubusercontent.com/SailorChina/ssrpanel-master/master/dev-script.sh&&chmod +x dev-script.sh&&bash dev-script.sh```
 
 
-更多问题访问：<a href="https://blog.67cc.cn/">https://blog.67cc.cn/</a><br>
 
-WIKI:<a href="https://github.com/marisn2017/ssrpanel/wiki">https://github.com/marisn2017/ssrpanel/wiki</a><br>
-
-<br><p>打赏请留言，需要匿名的请备注哦~</p> <p>再次感谢打赏~</p> <p><img src="https://cdn.67cc.cn/20171149300097257160.png" alt="打赏捐赠" /></p>
 
